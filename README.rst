@@ -1,41 +1,90 @@
-AlertOps Expert Guidance
+10 Tips for Handling a Major Outage (When Your Website Is Down on Black Friday)
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+If your e-commerce website is down due to a Black Friday major outage, are you prepared to handle it? Customers demand exceptional digital retail experiences on Black Friday, Cyber Monday, and throughout the holidays. If your company can manage issues that can cause an e-commerce outage, it can limit their impact now and in the future.
 
-Not One Size Fits All
+Ultimately, we want to help your team handle major incidents. To accomplish our goal, we want to teach you about the impact of e-commerce system outages so you can effectively manage an e-commerce outage or even prevent one from happening in the first place.
+
+Impact of a Black Friday E-Commerce Outage
+====
+Online sales are projected to increase between 17% and 22% in 2020, according to Deloitte. This may be due in part to fear associated with the coronavirus (COVID-19) pandemic, which is driving more consumers to forgo brick-and-mortar retailers, and instead, purchase holiday gifts online. It may also be linked to the rising use of technology to shop from virtually anywhere, at any time.
+
+Meanwhile, the cost of an outage — particularly on Black Friday — can be significant. IDC research indicates the average cost of an infrastructure failure among Fortune 1000 organizations is approximately $100,000 per hour. Furthermore, the average cost of unplanned downtime among these organizations falls between $1.25 billion and $2.5 billion annually.
+
+If your business experiences a Black Friday e-commerce outage, the damage can be substantial in terms of revenue losses. In the short-term, the outage will hamper your company’s ability to engage with online shoppers on the busiest shopping day of the year. This can cause your company to miss out on revenues — and lose these revenues to its rivals.
+
+Issues That Can Cause a Black Friday E-Commerce Outage
 =====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Common causes of IT outages include:
+1. Cyberattacks
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
-
-Clarity
+Ransomware, malware, and other cyber threats are major problems for global organizations. If cybercriminals attack an e-commerce website, they can gain control of the site and shut it down.
+2. Power or Internet Issues
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+A power or internet outage can cause an e-commerce site to go offline. This can occur if a company does not have backups in place to maintain consistent power or internet connectivity.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
+3. Hardware Failure
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Hardware that is not properly maintained can cause an e-commerce outage. If a company does not have hardware redundancies in place, it is ill-equipped to stop e-commerce outages, too.
 
-Conclusion
+In addition to the aforementioned causes, there are several factors that can contribute to an e-commerce outage, such as:
+
+    Sluggish third-party apps and APIs
+    Graphics-intensive web pages
+    Failure to inspect website performance at regional and national levels
+    Human error
+    Poor infrastructure
+
+Regardless of why an e-commerce outage occurs, it is crucial to act quickly to mitigate the issue. By leveraging a best-in-class incident management and response platform, your company can limit the impact of an e-commerce outage and uncover ways to prevent IT outages.
+How to Use AlertOps During a Black Friday E-Commerce Outage
+
+There are many ways AlertOps can help your business limit the impact of Black Friday e-commerce outages and other IT downtime that can occur during the holiday season, including:
+
+1. Planning, Prevention, and Protection
 ====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Review previous Black Friday e-commerce website volume and system load and adjust infrastructure forecasts accordingly. Our platform enables businesses to Implement monitoring controls to ensure that they are adequately protected against cyberattacks. It also empowers businesses to track cyberattack trends leading up to Black Friday, ensure that third-party components correspond to various SLAs, and automate infrastructure configuration and quality control testing.
 
-1 Red Canary 2021 Threat Detection Report
+2. Continuous Testing
+====
+Perform e-commerce load testing, so you can see how your site performs against expected thresholds. Furthermore, our platform promotes ongoing error and vulnerability testing, allowing your business to detect e-commerce mistakes and security issues that could hamper its performance on Black Friday and beyond.
+
+3. Early Detection of E-Commerce Issues
+====
+Thanks to AlertOps, your business can effectively monitor its e-commerce website. This ensures that your company can identify any problems in their early stages and mitigate them before they cause an outage. Plus, you can leverage performance, error, and log monitoring to verify your e-commerce site performs at top levels throughout the holiday season.
+
+4. Immediate Remediation of E-Commerce Issues
+====
+AlertOps ensures on-call staff are immediately notified any time an e-commerce website outage occurs. The platform offers automatic escalations, so on-call personnel are automatically alerted any time an incident arises. This speeds up incident remediation — and reduces the risk of a prolonged e-commerce outage.
+
+5. Major Incident Management
+====
+By using AlertOps, your business can establish a predefined major incident management playbook. This enables your company to identify who should be alerted if an e-commerce outage occurs and document the steps and processes needed to notify the right personnel during the incident. It also ensures on-call staff use the proper communication channels to keep in touch with one another throughout an e-commerce outage, leading to fast, efficient incident remediation.
+
+6. Major Incident Management Playbook Automation
+====
+Along with empowering your business to establish a major incident management playbook, AlertOps can help you automate your playbook. After you define all aspects of your major incident management playbook, AlertOps makes it simple to automate major incident response. The result: your on-call staff can automate incident management and optimize incident response, even if a Black Friday e-commerce outage occurs.
+
+7. Instant Implementation of a Major Incident Management Playbook
+====
+AlertOps streamlines the execution of a major incident management playbook. So, if your business experiences a Black Friday e-commerce outage, it can execute major incident management activities as soon as the incident is identified.
+
+8. Automated Communications
+====
+AlertOps minimizes the risk of missed communications during a Black Friday e-commerce outage. The platform allows your on-call staff to keep in touch with one another via text, SMS, and other contact methods. It also automates communications, enabling the right team members to engage with one another until an incident is fully resolved.
+
+9. Comprehensive Analytics
+====
+By leveraging AlertOps, your business can gain the insights it needs to prevent holiday season e-commerce outages and other IT issues in the years to come. AlertOps ensures your business can capture data and insights at each stage of an incident. As such, the platform allows your company to identify its incident response strengths and weaknesses and determine ways to improve its incident response efforts.
+
+10. Post-Mortem Reporting
+====
+AlertOps delivers blameless post-mortem reports that enable your business to review details surrounding major incidents, including key takeaways from the incident, and what can be done to prevent related issues. You can use post-mortem reports to find ways to continuously improve your incident response.
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/major-outage-black-friday/
 Read more:
 ====
 
